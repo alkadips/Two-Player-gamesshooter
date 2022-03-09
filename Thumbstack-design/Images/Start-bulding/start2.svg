@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #ff453a;
+      }
+    </style>
+  </defs>
+  <g id="Group_26411" data-name="Group 26411" transform="translate(-386 -278)">
+    <rect id="Rectangle_6453" data-name="Rectangle 6453" class="cls-1" width="40" height="40" rx="16" transform="translate(386 278)"/>
+    <g id="person_black_24dp" transform="translate(394 286)">
+      <path id="Path_51959" data-name="Path 51959" class="cls-2" d="M0,0H24V24H0Z"/>
+      <path id="Path_51960" data-name="Path 51960" class="cls-3" d="M12.067,12.067A4.034,4.034,0,1,0,8.034,8.034,4.033,4.033,0,0,0,12.067,12.067Zm0,2.017C9.375,14.084,4,15.436,4,18.118v1.008a1.011,1.011,0,0,0,1.008,1.008H19.126a1.011,1.011,0,0,0,1.008-1.008V18.118C20.135,15.436,14.76,14.084,12.067,14.084Z" transform="translate(-0.067 -0.067)"/>
+    </g>
+  </g>
+</svg>

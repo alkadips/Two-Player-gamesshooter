@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="153.263" height="159" viewBox="0 0 153.263 159">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #efefef;
+      }
+
+      .cls-3 {
+        fill: #06c;
+      }
+
+      .cls-4 {
+        filter: url(#Path_76773);
+      }
+    </style>
+    <filter id="Path_76773" x="0" y="0" width="153.263" height="159" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="24" result="blur"/>
+      <feFlood flood-color="#1c1c1c" flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="navigate_next_black_24dp" transform="translate(61.41 58.68)">
+    <path id="Path_76772" data-name="Path 76772" class="cls-1" d="M0,0H30V30H0Z" transform="translate(0 0)"/>
+    <ellipse id="Ellipse_2024" data-name="Ellipse 2024" class="cls-2" cx="14.42" cy="14.019" rx="14.42" ry="14.019" transform="translate(0 0.801)"/>
+    <g class="cls-4" transform="matrix(1, 0, 0, 1, -61.41, -58.68)">
+      <path id="Path_76773-2" data-name="Path 76773" class="cls-3" d="M10.373,6,8.61,7.762,14.335,13.5,8.61,19.238,10.373,21l7.5-7.5Z" transform="translate(63.39 60)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="304.917" height="311.41" viewBox="0 0 304.917 311.41">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.5;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        filter: url(#Path_76980);
+      }
+
+      .cls-3 {
+        filter: url(#Path_76979);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="1.158" y1="0.472" x2="0.75" y2="-0.147" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c0f786"/>
+      <stop offset="1" stop-color="#11b9c8"/>
+    </linearGradient>
+    <filter id="Path_76979" x="0" y="59.221" width="238.694" height="252.188" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="16" result="blur"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_76980" x="20.765" y="0" width="284.152" height="301.945" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="16" result="blur-2"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_26869" data-name="Group 26869" transform="translate(-71.744 109.131)">
+    <g class="cls-3" transform="matrix(1, 0, 0, 1, 71.74, -109.13)">
+      <path id="Path_76979-2" data-name="Path 76979" class="cls-1" d="M43.945,4.9a7.315,7.315,0,0,1,13.627.06L101.379,117.15a7.2,7.2,0,0,1-6.77,9.83L7.989,126.6a7.326,7.326,0,0,1-6.857-9.89Z" transform="matrix(0.92, -0.39, 0.39, 0.92, 47.29, 143.78)"/>
+    </g>
+    <g class="cls-2" transform="matrix(1, 0, 0, 1, 71.74, -109.13)">
+      <path id="Path_76980-2" data-name="Path 76980" class="cls-1" d="M57.738,6.37c3.127-8.166,14.769-8.115,17.968.079l57.762,147.935a9.491,9.491,0,0,1-8.927,12.961l-114.215-.5A9.66,9.66,0,0,1,1.285,153.8Z" transform="matrix(0.92, -0.39, 0.39, 0.92, 68.06, 97.16)"/>
+    </g>
+  </g>
+</svg>

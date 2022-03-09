@@ -1,0 +1,17 @@
+<svg id="description_black_24dp_1_" data-name="description_black_24dp (1)" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #ff6000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <path id="Path_51968" data-name="Path 51968" class="cls-1" d="M0,0H24V24H0Z"/>
+  <path id="Path_51969" data-name="Path 51969" class="cls-2" d="M13.928,2.531A1.921,1.921,0,0,0,12.6,2H5.875A1.844,1.844,0,0,0,4,3.8V18.2A1.836,1.836,0,0,0,5.866,20H17.125A1.844,1.844,0,0,0,19,18.2V8.147a1.735,1.735,0,0,0-.553-1.269ZM14.313,16.4H8.687a.9.9,0,1,1,0-1.8h5.625a.9.9,0,1,1,0,1.8Zm0-3.6H8.687a.9.9,0,1,1,0-1.8h5.625a.9.9,0,1,1,0,1.8ZM12.438,7.4V3.35L17.594,8.3H13.375A.922.922,0,0,1,12.438,7.4Z" transform="translate(0.5 1)"/>
+</svg>

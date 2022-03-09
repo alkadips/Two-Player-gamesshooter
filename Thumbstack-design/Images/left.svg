@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #efefef;
+      }
+
+      .cls-3 {
+        fill: #888;
+      }
+    </style>
+  </defs>
+  <g id="navigate_next_black_24dp" transform="translate(30 30) rotate(180)">
+    <path id="Path_76772" data-name="Path 76772" class="cls-1" d="M0,0H30V30H0Z" transform="translate(0 0)"/>
+    <ellipse id="Ellipse_2024" data-name="Ellipse 2024" class="cls-2" cx="14.42" cy="14.019" rx="14.42" ry="14.019" transform="translate(0 0.801)"/>
+    <path id="Path_76773" data-name="Path 76773" class="cls-3" d="M1.763,0,0,1.762,5.725,7.5,0,13.238,1.763,15l7.5-7.5Z" transform="translate(10.59 7.32)"/>
+  </g>
+</svg>

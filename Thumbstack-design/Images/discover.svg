@@ -1,0 +1,15 @@
+<svg id="saved_search_white_24dp" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #ff6000;
+      }
+    </style>
+  </defs>
+  <path id="Path_19358" data-name="Path 19358" class="cls-1" d="M0,0H24V24H0Z"/>
+  <path id="Path_19359" data-name="Path 19359" class="cls-2" d="M15.864,14.321h-.813l-.288-.278a6.7,6.7,0,1,0-.72.72l.278.288v.813L19.467,21,21,19.467Zm-6.175,0A4.631,4.631,0,1,1,14.321,9.69,4.625,4.625,0,0,1,9.69,14.321Z" transform="translate(-0.001 0)"/>
+</svg>

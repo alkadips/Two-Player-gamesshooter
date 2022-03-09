@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #ff6000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <g id="account_balance_white_24dp" transform="translate(0 0.002)">
+    <g id="Group_19693" data-name="Group 19693" transform="translate(0 -0.002)">
+      <rect id="Rectangle_5595" data-name="Rectangle 5595" class="cls-1" width="24" height="24"/>
+    </g>
+    <g id="Group_19695" data-name="Group 19695" transform="translate(2.999 2.998)">
+      <g id="Group_19694" data-name="Group 19694">
+        <rect id="Rectangle_5596" data-name="Rectangle 5596" class="cls-2" width="3" height="6.143" transform="translate(1.998 7.716)"/>
+        <rect id="Rectangle_5597" data-name="Rectangle 5597" class="cls-2" width="3" height="6.143" transform="translate(7.544 7.716)"/>
+        <rect id="Rectangle_5598" data-name="Rectangle 5598" class="cls-2" width="17.182" height="3.571" transform="translate(0.267 14.429)"/>
+        <rect id="Rectangle_5599" data-name="Rectangle 5599" class="cls-2" width="3" height="6.143" transform="translate(12.879 7.716)"/>
+        <path id="Path_19360" data-name="Path 19360" class="cls-2" d="M10.724,1,2,6.286V8.4H19.448V6.286Z" transform="translate(-2 -1)"/>
+      </g>
+    </g>
+  </g>
+</svg>

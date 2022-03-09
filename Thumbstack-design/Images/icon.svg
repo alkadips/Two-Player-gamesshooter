@@ -1,0 +1,23 @@
+<svg id="cable_white_24dp" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #ff6000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <g id="Group_19681" data-name="Group 19681">
+    <path id="Path_19342" data-name="Path 19342" class="cls-1" d="M0,0H24V24H0Z"/>
+  </g>
+  <g id="Group_19683" data-name="Group 19683" transform="translate(3.001 3)">
+    <g id="Group_19682" data-name="Group 19682">
+      <path id="Path_19343" data-name="Path 19343" class="cls-2" d="M20,5V4a1,1,0,0,0-1-1H17a1,1,0,0,0-1,1V5H15V9a1,1,0,0,0,1,1h1v7a2,2,0,1,1-4,0V7A4,4,0,1,0,5,7v7H4a1,1,0,0,0-1,1v4H4v1a1,1,0,0,0,1,1H7a1,1,0,0,0,1-1V19H9V15a1,1,0,0,0-1-1H7V7a2,2,0,1,1,4,0V17a4,4,0,1,0,8,0V10h1a1,1,0,0,0,1-1V5Z" transform="translate(-3 -3)"/>
+    </g>
+  </g>
+</svg>

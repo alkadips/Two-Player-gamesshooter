@@ -1,0 +1,15 @@
+<svg id="star_rate_black_24dp" xmlns="http://www.w3.org/2000/svg" width="23" height="22" viewBox="0 0 23 22">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #ffa41c;
+      }
+    </style>
+  </defs>
+  <rect id="Rectangle_6281" data-name="Rectangle 6281" class="cls-1" width="23" height="22"/>
+  <path id="Path_76741" data-name="Path 76741" class="cls-2" d="M13.68,9.6,12.317,5.108a.924.924,0,0,0-1.771,0L9.173,9.6H5.047a.926.926,0,0,0-.538,1.678l3.375,2.411L6.559,17.96A.926.926,0,0,0,8.005,18.97l3.422-2.6,3.422,2.606a.926.926,0,0,0,1.446-1.011l-1.326-4.275,3.375-2.411a.925.925,0,0,0-.538-1.678H13.68Z" transform="translate(-0.12 -0.756)"/>
+</svg>

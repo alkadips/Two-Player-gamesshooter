@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 13 13">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.3;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #26205d;
+      }
+    </style>
+  </defs>
+  <g id="campaign_black_24dp_1_" data-name="campaign_black_24dp (1)" class="cls-1" transform="translate(0.466 0.066)">
+    <g id="Group_21717" data-name="Group 21717" transform="translate(0 0)">
+      <rect id="Rectangle_5798" data-name="Rectangle 5798" class="cls-2" width="13" height="13" transform="translate(-0.467 -0.067)"/>
+    </g>
+    <g id="Group_21718" data-name="Group 21718" transform="translate(1.154 1.378)">
+      <path id="Path_51989" data-name="Path 51989" class="cls-3" d="M6.949,8.5H3.65A1.654,1.654,0,0,0,2,10.147V11.8a1.654,1.654,0,0,0,1.65,1.65h.825V15.92a.827.827,0,0,0,.825.825h0a.827.827,0,0,0,.825-.825V13.446h.825l3.457,2.147s.638.412.667-.264l0-8.912s.04-.515-.454-.165S6.949,8.5,6.949,8.5Z" transform="translate(-2 -6.13)"/>
+      <path id="Path_51990" data-name="Path 51990" class="cls-3" d="M15.236,11.452a4.672,4.672,0,0,0-1.1-2.523c-.185-.2-.134.2-.134.2v4.852s.01.286.134.173A5.656,5.656,0,0,0,15.236,11.452Z" transform="translate(-4.101 -6.611)"/>
+    </g>
+  </g>
+</svg>

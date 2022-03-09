@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13.197" height="13.197" viewBox="0 0 13.197 13.197">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.3;
+      }
+
+      .cls-2 {
+        fill: rgba(0,0,0,0);
+      }
+
+      .cls-3 {
+        fill: #26205d;
+      }
+    </style>
+  </defs>
+  <g id="local_mall_black_24dp" class="cls-1" transform="translate(0 0)">
+    <path id="Path_19379" data-name="Path 19379" class="cls-2" d="M0,0H13.2V13.2H0Z" transform="translate(0 0)"/>
+    <path id="Path_19380" data-name="Path 19380" class="cls-3" d="M10.7,3.357H9.737a2.407,2.407,0,0,0-4.812,0H3.962A.951.951,0,0,0,3,4.3L3,9.955a.955.955,0,0,0,.962.943H10.7a.955.955,0,0,0,.962-.943V4.3A.955.955,0,0,0,10.7,3.357ZM7.331,1.943A1.427,1.427,0,0,1,8.774,3.357H5.887A1.427,1.427,0,0,1,7.331,1.943Zm0,4.713A2.383,2.383,0,0,1,4.925,4.3h.962a1.444,1.444,0,0,0,2.887,0h.962A2.383,2.383,0,0,1,7.331,6.656Z" transform="translate(-0.733 0.65)"/>
+  </g>
+</svg>

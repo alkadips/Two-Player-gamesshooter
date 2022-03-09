@@ -1,0 +1,17 @@
+<svg id="forum_black_24dp" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #ff6000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <path id="Path_51970" data-name="Path 51970" class="cls-1" d="M0,0H24V24H0Z"/>
+  <path id="Path_51971" data-name="Path 51971" class="cls-2" d="M18.567,6.013h-.9v7.118a.9.9,0,0,1-.9.89l-9.793-.064v.89a1.79,1.79,0,0,0,1.79,1.78h7.645L20,20.186V7.729C20,6.75,19.552,6.013,18.567,6.013Zm-3.139,3.995V3.78A1.79,1.79,0,0,0,13.638,2H3.79A1.79,1.79,0,0,0,2,3.78V15.347l3.581-3.559h8.057A1.79,1.79,0,0,0,15.429,10.008Z" transform="translate(1 0.907)"/>
+</svg>

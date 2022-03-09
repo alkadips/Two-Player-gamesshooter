@@ -1,0 +1,17 @@
+<svg id="code_black_24dp" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #ff6000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <path id="Path_51978" data-name="Path 51978" class="cls-1" d="M0,0H24V24H0Z"/>
+  <path id="Path_51979" data-name="Path 51979" class="cls-2" d="M8.318,15.9,4.655,12,8.318,8.1a1.029,1.029,0,0,0,0-1.4A.885.885,0,0,0,7,6.7L2.692,11.29a1.042,1.042,0,0,0,0,1.41L7,17.3a.885.885,0,0,0,1.315,0,1.029,1.029,0,0,0,0-1.4Zm6.2,0L18.18,12,14.517,8.1a1.029,1.029,0,0,1,0-1.4.885.885,0,0,1,1.315,0l4.311,4.59a1.042,1.042,0,0,1,0,1.41l-4.311,4.6a.885.885,0,0,1-1.315,0,1.029,1.029,0,0,1,0-1.4Z" transform="translate(0.582)"/>
+</svg>

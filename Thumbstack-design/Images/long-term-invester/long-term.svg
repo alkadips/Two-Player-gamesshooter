@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90" height="90" viewBox="0 0 90 90">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #aa09a5;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        filter: url(#Rectangle_6487);
+      }
+    </style>
+    <filter id="Rectangle_6487" x="0" y="0" width="90" height="90" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_25616" data-name="Group 25616" transform="translate(21 17)">
+    <g id="Group_25603" data-name="Group 25603">
+      <g class="cls-4" transform="matrix(1, 0, 0, 1, -21, -17)">
+        <rect id="Rectangle_6487-2" data-name="Rectangle 6487" class="cls-1" width="48" height="48" rx="10" transform="translate(21 17)"/>
+      </g>
+    </g>
+    <g id="dns_black_24dp" transform="translate(42 42) rotate(180)">
+      <path id="Path_53135" data-name="Path 53135" class="cls-2" d="M0,0H36V36H0Z"/>
+    </g>
+    <g id="Group_25673" data-name="Group 25673" transform="translate(7.973 8.977)">
+      <path id="Path_76939" data-name="Path 76939" class="cls-3" d="M27.048,5h-2V4a1,1,0,0,0-2,0V5H17.029V4a1,1,0,1,0-2,0V5H9.014V4a1,1,0,0,0-2,0V5h-2A3.006,3.006,0,0,0,2,8.01V24.041a3.006,3.006,0,0,0,3.006,3.006H27.048a3.006,3.006,0,0,0,3.006-3.006V8.01A3.006,3.006,0,0,0,27.048,5Zm1,19.037a1,1,0,0,1-1,1H5.006a1,1,0,0,1-1-1V8.01a1,1,0,0,1,1-1h2v1a1,1,0,0,0,2,0v-1h6.012v1a1,1,0,1,0,2,0v-1h6.012v1a1,1,0,0,0,2,0v-1h2a1,1,0,0,1,1,1Z" transform="translate(0)"/>
+      <circle id="Ellipse_2052" data-name="Ellipse 2052" class="cls-3" cx="1.913" cy="1.913" r="1.913" transform="translate(7.231 19.466)"/>
+      <circle id="Ellipse_2053" data-name="Ellipse 2053" class="cls-3" cx="1.913" cy="1.913" r="1.913" transform="translate(14.114 19.466)"/>
+      <circle id="Ellipse_2054" data-name="Ellipse 2054" class="cls-3" cx="1.913" cy="1.913" r="1.913" transform="translate(20.997 19.466)"/>
+      <circle id="Ellipse_2055" data-name="Ellipse 2055" class="cls-3" cx="1.913" cy="1.913" r="1.913" transform="translate(7.231 12.14)"/>
+      <circle id="Ellipse_2056" data-name="Ellipse 2056" class="cls-3" cx="1.913" cy="1.913" r="1.913" transform="translate(14.114 12.14)"/>
+      <circle id="Ellipse_2057" data-name="Ellipse 2057" class="cls-3" cx="1.913" cy="1.913" r="1.913" transform="translate(20.997 12.14)"/>
+    </g>
+  </g>
+</svg>

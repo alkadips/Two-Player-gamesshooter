@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90" height="90" viewBox="0 0 90 90">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ec0f51;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        filter: url(#Rectangle_6487);
+      }
+    </style>
+    <filter id="Rectangle_6487" x="0" y="0" width="90" height="90" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_25616" data-name="Group 25616" transform="translate(21 17)">
+    <g id="Group_25603" data-name="Group 25603">
+      <g class="cls-4" transform="matrix(1, 0, 0, 1, -21, -17)">
+        <rect id="Rectangle_6487-2" data-name="Rectangle 6487" class="cls-1" width="48" height="48" rx="10" transform="translate(21 17)"/>
+      </g>
+    </g>
+    <g id="dns_black_24dp" transform="translate(42 42) rotate(180)">
+      <path id="Path_53135" data-name="Path 53135" class="cls-2" d="M0,0H36V36H0Z"/>
+    </g>
+    <g id="noun_analysis_286718" transform="translate(10.546 8.59)">
+      <g id="Group_25663" data-name="Group 25663" transform="translate(0 3)">
+        <path id="Path_76932" data-name="Path 76932" class="cls-3" d="M26.252,23.079l-5.689-5.688a11.161,11.161,0,0,0,.8-10.918l-2.606,2.6a7.857,7.857,0,1,1-2.484-3.856l2.381-2.381a11.207,11.207,0,1,0-7.442,19.582,11.14,11.14,0,0,0,6.18-1.86l5.689,5.688a2.243,2.243,0,0,0,3.172-3.172Z" transform="translate(0 0)"/>
+        <path id="Path_76933" data-name="Path 76933" class="cls-3" d="M14.241,8.682,11.617,6.058a1.144,1.144,0,0,0-1.954.809V13.26l-1.48-1.48a1.143,1.143,0,0,0-1.618,0L4.413,13.932a6.893,6.893,0,0,0,1.221,2.015l1.74-1.74L10,16.832a1.144,1.144,0,0,0,1.954-.809V9.63l1.48,1.48a1.143,1.143,0,0,0,1.618,0L22.489,3.67l2.052,2.052V0H18.819l2.052,2.052Z" transform="translate(0.077 0)"/>
+      </g>
+    </g>
+  </g>
+</svg>
